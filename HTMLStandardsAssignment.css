@@ -1,0 +1,52 @@
+.titletransform {
+  position: relative;
+  left: 400px;
+text-transform: uppercase;
+}
+
+.titlefont {
+  font-family: "Calibri", sans-serif;
+}
+
+.textsize {
+  font-size: small;
+}
+
+.textcolor {
+  color: blue;
+}
+
+.divp p{
+  color: purple;
+}
+
+.li1, .li2{
+  font-weight: bold;
+}
+
+.li3, .li4 {
+  font-style: italic;
+}
+
+#imgbox1 {
+  position: absolute;
+  top: 200px;
+  left: 320px;
+  height: 100px;
+  border: PURPLE 10px SOLID;
+  padding: 5px 10px 5px 10px;
+}
+
+#imgbox2 {
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  border: PURPLE 10px SOLID;
+  padding: 10px 10px 10px 10px;
+}
+
+.theannoyingposition {
+  position: fixed;
+  right: 10px;
+}
